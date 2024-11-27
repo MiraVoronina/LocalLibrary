@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/LocalLibrary.iml" filepath="$PROJECT_DIR$/.idea/LocalLibrary.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/pythonJango.iml" filepath="$PROJECT_DIR$/.idea/pythonJango.iml" />
+>>>>>>> cec88bf (Add version 2.0)
     </modules>
   </component>
 </project>
