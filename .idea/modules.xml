@@ -3,10 +3,14 @@
   <component name="ProjectModuleManager">
     <modules>
 <<<<<<< HEAD
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/LocalLibrary.iml" filepath="$PROJECT_DIR$/.idea/LocalLibrary.iml" />
 =======
       <module fileurl="file://$PROJECT_DIR$/.idea/pythonJango.iml" filepath="$PROJECT_DIR$/.idea/pythonJango.iml" />
 >>>>>>> cec88bf (Add version 2.0)
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/pythonJango.iml" filepath="$PROJECT_DIR$/.idea/pythonJango.iml" />
+>>>>>>> 6fafba1 (version 3.0)
     </modules>
   </component>
 </project>

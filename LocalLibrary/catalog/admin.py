@@ -71,6 +71,3 @@ class BookInstanceAdmin(admin.ModelAdmin):  # Определяем класс д
 
 
 
-
-
-
